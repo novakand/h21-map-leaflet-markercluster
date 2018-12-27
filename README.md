@@ -5,7 +5,7 @@
 ```bash
 npm i @h21-map/markercluster-leaflet
 ```
-### How to use (Dinamic import)
+### How to use (dinamic import)
 ```bash
 import('@h21-map/markercluster-leaflet')
 ```
